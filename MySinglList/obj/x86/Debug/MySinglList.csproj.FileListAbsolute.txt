@@ -1,0 +1,10 @@
+C:\Users\Света\Desktop\Саша\MySinglList\MySinglList\bin\Debug\MySinglList.exe
+C:\Users\Света\Desktop\Саша\MySinglList\MySinglList\bin\Debug\MySinglList.pdb
+C:\Users\Света\Desktop\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.exe
+C:\Users\Света\Desktop\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.pdb
+C:\Users\Света\Desktop\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.csprojResolveAssemblyReference.cache
+C:\Users\Rushan\Downloads\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.exe
+C:\Users\Rushan\Downloads\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.csprojResolveAssemblyReference.cache
+C:\Users\Rushan\Downloads\Саша\MySinglList\MySinglList\bin\Debug\MySinglList.exe
+C:\Users\Rushan\Downloads\Саша\MySinglList\MySinglList\bin\Debug\MySinglList.pdb
+C:\Users\Rushan\Downloads\Саша\MySinglList\MySinglList\obj\x86\Debug\MySinglList.pdb
